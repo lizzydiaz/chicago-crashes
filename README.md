@@ -1,7 +1,8 @@
 # Transportation and Public Safety
-# What is the state of traffic safety in Chicago? What factors influence vehicle crashes?
+# What does the spatial distribution of crashes look like in Chicago? What factors influence vehicle crashes?
 
 Data and Programming II Final Project (Fall 2024)
+Lizzy Diaz and Charisma Lambert
 
 These research questions came out of personal interest as we have either experienced and/or witnessed crashes in Chicago and were curious about the frequency and cause of such occurrences. The Chicago Data Portal contained three different data sets for us to examine: 
 - Traffic Crashes - Crashes: Contains data on traffic crashes within city limits of Chicago and the reporting Chicago Police Department jurisdiction. 
